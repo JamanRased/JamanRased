@@ -13,8 +13,8 @@
 <p align="left">
 <a href="https://codepen.io/jamanrased" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jamanrased" height="30" width="40" /></a>
 <a href="https://twitter.com/jamanrased_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jamanrased_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md. raseduzzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. raseduzzaman" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/jamanrased" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jamanrased" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-raseduzzaman-1470b0154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. raseduzzaman" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10063730" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jamanrased" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
