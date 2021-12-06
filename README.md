@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaman Rased</h1>
-<h3 align="center">Junior React Developer</h3>
+<h3 align="center">Jr. Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamanrased&label=Profile%20views&color=0e75b6&style=flat" alt="jamanrased" /> </p>
 
