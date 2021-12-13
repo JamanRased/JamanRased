@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ract Native**
 
-- 📫 How to reach me **jaman.rased.199@gmailcom**
+- 📫 How to reach me **jaman.rashed.199@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
