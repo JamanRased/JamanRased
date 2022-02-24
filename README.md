@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [tourisiom](https://github.com/JamanRased/tourism-client)
 
-- 🌱 I’m currently learning **Ract Native**
+- 🌱 I’m currently learning **Typescript & React Redux**
 
 - 📫 How to reach me **jaman.rashed.199@gmail.com**
 
